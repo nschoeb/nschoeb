@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathaniel Schoeb</h1>
-<h3 align="center">A Software Developer in Washington, DC.</h3>
+<h3 align="center">A Software Developer in San Francisco, CA</h3>
 
 <p align="left"> <a href="https://twitter.com/nathanielschoeb" target="blank"><img src="https://img.shields.io/twitter/follow/nathanielschoeb?logo=twitter&style=for-the-badge" alt="nathanielschoeb" /></a> </p>
 
