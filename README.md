@@ -2,7 +2,7 @@
 <h3 align="center">Technical Lead & Senior Software Engineer based in Oakland, CA</h3>
 
 <p align="center">
-  <a href="YOUR_TASK_APP_URL_HERE" target="_blank">
+  <a href="[https://nschoeb.github.io/simple-todo-app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Project:_Nathaniel's_Task_Tracker-10b981?style=for-the-badge&logo=supabase&logoColor=white" alt="Latest Project" />
   </a>
 </p>
