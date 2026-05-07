@@ -1,28 +1,38 @@
 <h1 align="center">Hi 👋, I'm Nathaniel Schoeb</h1>
-<h3 align="center">Software Engineer II based in Oakland, CA</h3>
+<h3 align="center">Technical Lead & Senior Software Engineer based in Oakland, CA</h3>
 
 <p align="center">
-  <a href="https://resumeprofile-5e0u.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Live_Resume-3b82f6?style=for-the-badge&logo=flask&logoColor=white" alt="Live Resume" />
+  <a href="YOUR_TASK_APP_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Project:_Nathaniel's_Task_Tracker-10b981?style=for-the-badge&logo=supabase&logoColor=white" alt="Latest Project" />
   </a>
 </p>
 
-- 🚀 **Software Engineer II** with 4+ years of experience in full-stack development and secure healthcare systems.
-- 🛠️ Currently building and scaling web applications using **Flask**, **Python**, and **React**.
+- 🏛️ **Technical Lead** at Kreative Technologies, architecting secure, full-stack healthcare systems for the DoD.
+- 🚀 Expert in **React**, **Node.js**, and **PostgreSQL**, with a focus on Secure SDLC and HIPAA compliance.
+- 🛠️ Currently building with **TypeScript**, **Supabase**, and **Tailwind CSS**.
 - 📈 Proven track record of automating complex workflows and reducing manual labor by 80%.
+- 🧗 **Rock climber** and problem solver who enjoys scaling routes at all over the bay.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:nschoeb@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nschoeb" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<h3 align="left">Modern Tech Stack & Tools:</h3>
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Recent Activity:</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nschoeb&show_icons=true&theme=radical" alt="Nathaniel's GitHub Stats" />
 </p>
